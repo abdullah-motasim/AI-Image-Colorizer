@@ -3,6 +3,10 @@ This is an AI model developed as part of the final project for an Applied Fundam
 
 ![image](https://github.com/user-attachments/assets/68c485aa-082d-4639-a66f-05b44c6faede)
 
+# Live Demo
+See the model in action colorizing a series of random greyscale images from the web!
+![colorizer-model-demo](https://github.com/user-attachments/assets/16d854ce-cb53-4c0a-8e4e-b247e339c3ea)
+
 # Methedolgy
 Our final model was a conditional generative adversarial network (GAN) with a UNet Generator. The genreator and discriminator were implemented with ConvBlock and ConvTBlock modules.
 
